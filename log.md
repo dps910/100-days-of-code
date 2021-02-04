@@ -1,30 +1,27 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: February 1, 2021 (Monday)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Made most of my get_pdf_docs program, which downloads the Python documentation from https://docs.python.org/3/download.html.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I felt like by making it, I was getting a little bit better at Python. I did not hesitate to make this program, I sort of just got on with it, which is weird for me, but it is a nice change. I hope it carries on.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [get_pdf_docs](https://github.com/dps910/scripts/tree/master/get_pdf_docs)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: February 2, 2021 (Tuesday)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Mostly done with get_pdf_docs, but I want to add a bit more to it!
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I felt happy that I got the program mostly done. It only has one use, but it is useful to me. Better than downloading the documentation manually for sure.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [get_pdf_docs](https://github.com/dps910/scripts/tree/master/get_pdf_docs)
 
+(skipped a day due to assignment, but keeping it going anyway)
 
-### Day 1: June 27, Monday
+### Day 3: February 4, 2021 (Thursday)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I feel that I could have been programmed more today. I was programming on my Chromebook (yes, don't laugh). and I accidentally shut it down and now the Terminal won't open because "Linux Beta needs an update" or something. I am now on my PC and have tried to code a little bit. I will try to be more productive tomorrow.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Yeah, today was not great tbh :/.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: haven't done much on GitHub today :/
