@@ -20,7 +20,7 @@
 
 ### Day 3: February 4, 2021 (Thursday)
 
-**Today's Progress**: I feel that I could have been programmed more today. I was programming on my Chromebook (yes, don't laugh). and I accidentally shut it down and now the Terminal won't open because "Linux Beta needs an update" or something. I am now on my PC and have tried to code a little bit. I will try to be more productive tomorrow.
+**Today's Progress**: I feel that I could have been programmed more today. I was programming on my Chromebook (yes, don't laugh), and I accidentally shut it down and now the Terminal won't open because "Linux Beta needs an update" or something. I am now on my PC and have tried to code a little bit. I will try to be more productive tomorrow.
 
 **Thoughts** Yeah, today was not great tbh :/.
 
