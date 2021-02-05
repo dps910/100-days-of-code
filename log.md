@@ -25,3 +25,11 @@
 **Thoughts** Yeah, today was not great tbh :/.
 
 **Link(s) to work**: haven't done much on GitHub today :/
+
+### Day 4: February 5, 2021 (Friday)
+
+**Today's Progress**: Made a NotifyIcon with event calls working in C#. But I was trying to contribute to a project and I couldn't figure it out until now.. I am for sure dumb as a rock.
+
+**Thoughts**: I felt slightly annoyed, but I still feel motivated!
+
+**Link(s) to work**: [get_pdf_docs](https://github.com/dps910/scripts/tree/master/get_pdf_docs)
