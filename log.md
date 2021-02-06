@@ -33,3 +33,11 @@
 **Thoughts**: I felt slightly annoyed, but I still feel motivated!
 
 **Link(s) to work**: didn't upload anything on GitHub today.
+
+### Day 5: February 6, 2021 (Saturday)
+
+**Today's Progress**: Started writing a script that can upload files to google drive from the command line.
+
+**Thoughts**: It was great, I think I maybe could have done a bit more today?
+
+**Link(s) to work**: It will be here when it's finished [gdrive_uploader](https://github.com/dps910/scripts/tree/master/gdrive_uploader)
