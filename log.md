@@ -41,3 +41,11 @@
 **Thoughts**: It was great, I think I maybe could have done a bit more today?
 
 **Link(s) to work**: It will be here when it's finished [gdrive_uploader](https://github.com/dps910/scripts/tree/master/gdrive_uploader)
+
+### Day 6: February 7, 2021 (Sunday)
+
+**Today's Progress**: I started porting halium to my phone so I can install Ubuntu Touch!
+
+**Thoughts**: Today has been great! I did a page of my assignment this morning and I have almost finished building the kernel for my phone. Hopefully I can get past the errors etc.
+
+**Link(s) to work**: I will upload to GitHub once I get it working. I need to try it for myself so I can let people know what works and what doesn't.
