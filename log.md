@@ -49,3 +49,13 @@
 **Thoughts**: Today has been great! I did a page of my assignment this morning and I have almost finished building the kernel for my phone. Hopefully I can get past the errors etc.
 
 **Link(s) to work**: I will upload to GitHub once I get it working. I need to try it for myself so I can let people know what works and what doesn't.
+
+(skipped a day due to assignment)
+
+### Day 7: February 9, 2021 (Tuesday)
+
+**Today's Progress**: Did a bit more of my script, it should be complete soon
+
+**Thoughts**: meh
+
+**Link(s) to work**: I will upload to GitHub once I get it working. I need to try it for myself so I can let people know what works and what doesn't.
